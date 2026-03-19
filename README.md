@@ -2,6 +2,8 @@
 
 Welcome to the official repository for the **Full Stack Web Development Workshop** for Sprinternship 2026! 🎉
 
+### Always fork this repository before making any changes. Do not modify the original repo unless you have been explicitly given permission.
+
 This is your one-stop hub for all workshop activities. Most of our work will live here on GitHub, so get comfortable, you'll be using this repo throughout the program.
 
 ---
@@ -18,7 +20,7 @@ Each day of the workshop has its own **branch** with its own activity, starter f
 
 To switch to a day's branch:
 ```bash
-git checkout Day1
+git checkout <branch-name>
 ```
 
 ---
@@ -27,8 +29,9 @@ git checkout Day1
 
 1. Switch to the branch for the day you want
 2. Read that branch's `README.md` for instructions
-3. Download or clone the starter files and get to work
-4. Come back anytime to revisit an activity — everything stays here
+3. Download or fork the repo
+4. Clone the starter files and get to work
+5. Come back anytime to revisit an activity — everything stays here
 
 ---
 
